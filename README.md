@@ -9,7 +9,12 @@
       -Focused on close prices 
       -Daily time frame 
       -Top 5 Volume traded stocks (GME,AMC,CLOV,CLNE)
-
+ 
+ ## Communication
+    - Slack workspace: group project - data
+    - Virtual class: tuesday and thursday (7pm-9pm)
+    - Zoom meetings
+ 
 # Tools
     -Github(Version Control) 
     -ETL(Python/JS, Dataframes/JSON, Prostgre{AWS,?}) (ERD) 
