@@ -4,7 +4,8 @@
 
     Try to classify and identify how r/wallstreetbets/ affects stock price and are the number of posts a major factor on the performance of (insert specific stock tickers/names here).
 
-    Data Constraints: -Bound time to the last 5 years -Focused on close prices -Daily time frame -Top 5 Volume traded stocks (GME,AMC,CLOV,CLNE)
+    Data Constraints: 
+        -Bound time to the last 5 years -Focused on close prices -Daily time frame -Top 5 Volume traded stocks (GME,AMC,CLOV,CLNE)
 
 # Tools
       -Github(Version Control) -ETL(Python/JS, Dataframes/JSON, Prostgre{AWS,?}) (ERD) -Structured Machine Learning(Python) Prediction** -Unstructured ML (Python) Classification -Dashboard(Tableau)
