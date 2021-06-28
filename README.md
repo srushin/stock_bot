@@ -16,7 +16,7 @@
     - Zoom meetings
     
 #### Google Slides
-[Link to preliminary slides]: https://docs.google.com/presentation/d/1XOsLk_ywS7JSwWmFjPFMf7BQVyQRQjJGoViyDx5BsoE/edit?usp=sharing
+    [Link to preliminary slides]: https://docs.google.com/presentation/d/1XOsLk_ywS7JSwWmFjPFMf7BQVyQRQjJGoViyDx5BsoE/edit?usp=sharing
  
 #### Tools
     -Github(Version Control) 
