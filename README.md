@@ -1,14 +1,12 @@
-# stock_bot
+# Stock Bot
 ## Overview
-    Try to predict stock price for (insert specific stock tickers/names here) using structured machine learning focused on volume and moving average.
-
-    Try to classify and identify how r/wallstreetbets/ affects stock price and are the number of posts a major factor on the performance of (insert specific stock tickers/names here).
+    Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. To accomplish this we will classify and identify how r/wallstreetbets/ affects stock price and how the number of posts plays a major factor on the performance of (AMC, GME, AAPL).
 
     Data Constraints: 
       -Bound time to the last 5 years 
       -Focused on close prices 
-      -Daily time frame 
-      -Top 5 Volume traded stocks (GME,AMC,CLOV,CLNE)
+      -Daily time frame, including the hours between market open & market close.
+      -Top stocks based on volume (GME,AMC,AAPL)
  
  ### Communication
     - Slack workspace: group project - data
