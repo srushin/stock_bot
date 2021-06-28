@@ -28,7 +28,7 @@
     ML(Lisette/Group)
     Prediction Model: Structured ML (Which factor can predict stock price the best? (Volume, Moving average, Number of reddit posts?, Other Indicator?)) Are we going to use Linear Regression, Logistic Regression, Other? Classification: Unstructured ML # of Reddit mentions (need to talk about this one further)
  
- ## Machine Learning(Lisette)
+ ## Machine Learning(Lisette preliminary)
     
     1.Description of Data preprocessing
         1A. Text Pre-processing
