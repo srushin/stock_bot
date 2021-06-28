@@ -4,7 +4,7 @@
 > Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. Traditionally the stock market is heavily influenced by large investment banks and hedge funds buying and selling large volumes of stocks. However from Jan 13th, 2021 through Feb 3rd, 2021, the stock market saw a huge disruption from retail investors, heavily spurred on by Reddit forum “r/wallstreetbets”. 
 ![1_7bA1kd2YezNvkpA4EZQHtQ](https://user-images.githubusercontent.com/78064648/123714755-cb3e8e80-d82b-11eb-914e-7e455b0818ce.jpg)
 
- * Data Constraints: 
+ > * Data Constraints: 
       * Bound time to the last 5 years 
       * Focused on close prices 
       * Daily time frame, including the hours between market open & market close.
