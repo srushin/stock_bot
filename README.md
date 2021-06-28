@@ -48,10 +48,7 @@
         -textblob is the python package which will help to extract the emotions from the content, here we are extracting from reddit/wallstreet bets.
         --Processes any textual message and recognize the emotions embedded in it.
         --using sentiment type: neutral, positive, negative.
-    5.Explanation of changes in model choice (if changes occurred between the Segment 2  and Segment 3 deliverables)
-    6.Description of how they have trained the model thus far, and any additional training that will take place 
-    7.Description of current accuracy score 
-    8.Additionally, the model obviously addresses the question or problem the team is solving 
+    
 
 
 # Questions
