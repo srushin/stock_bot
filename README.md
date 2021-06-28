@@ -1,12 +1,14 @@
-# Stock Bot
-## Overview
-    Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. To accomplish this we will classify and identify how r/wallstreetbets/ affects stock price and how the number of posts plays a major factor on the performance of (AMC, GME, AAPL).
+# Sentiment Analysis of Wallstreetbets Reddit
 
-    Data Constraints: 
-      -Bound time to the last 5 years 
-      -Focused on close prices 
-      -Daily time frame, including the hours between market open & market close.
-      -Top stocks based on volume (GME,AMC,AAPL)
+## Overview
+    Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. Traditionally the stock market is heavily influenced by large investment banks and hedge funds buying and selling large volumes of stocks. However from Jan 13th, 2021 through Feb 3rd, 2021, the stock market saw a huge disruption from retail investors, heavily spurred on by Reddit forum “r/wallstreetbets”. 
+
+
+ * Data Constraints: 
+      * Bound time to the last 5 years 
+      * Focused on close prices 
+      * Daily time frame, including the hours between market open & market close.
+      * Top stocks based on volume (GME,AMC,AAPL)
  
  ### Communication
     - Slack workspace: group project - data
