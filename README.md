@@ -10,12 +10,15 @@
       -Daily time frame 
       -Top 5 Volume traded stocks (GME,AMC,CLOV,CLNE)
  
- ## Communication
+ ### Communication
     - Slack workspace: group project - data
     - Virtual class: tuesday and thursday (7pm-9pm)
     - Zoom meetings
+    
+#### Google Slides
+[Link to preliminary slides]: https://docs.google.com/presentation/d/1XOsLk_ywS7JSwWmFjPFMf7BQVyQRQjJGoViyDx5BsoE/edit?usp=sharing
  
-# Tools
+#### Tools
     -Github(Version Control) 
     -ETL(Python/JS, Dataframes/JSON, Prostgre{AWS,?}) (ERD) 
     -Structured Machine Learning(Python) Prediction** 
@@ -28,7 +31,7 @@
     ML(Lisette/Group)
     Prediction Model: Structured ML (Which factor can predict stock price the best? (Volume, Moving average, Number of reddit posts?, Other Indicator?)) Are we going to use Linear Regression, Logistic Regression, Other? Classification: Unstructured ML # of Reddit mentions (need to talk about this one further)
  
- ## Machine Learning(Lisette preliminary)
+ #### Machine Learning(Lisette preliminary)
     
     1.Description of Data preprocessing
         1A. Text Pre-processing
@@ -56,7 +59,7 @@
         --Processes any textual message and recognize the emotions embedded in it.
         --using sentiment type: neutral, positive, negative.
 
-# Questions
+###### Questions
     Look at # of shorts for a given year?
     What key indicators affect stock price the most? (Volume, Moving Average, RSI**, VWAP**)
     How stocks perform vs industry average?
