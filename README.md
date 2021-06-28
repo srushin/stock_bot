@@ -1,7 +1,7 @@
 # Sentiment Analysis of Wallstreetbets Reddit
 
 ## Overview
-    Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. Traditionally the stock market is heavily influenced by large investment banks and hedge funds buying and selling large volumes of stocks. However from Jan 13th, 2021 through Feb 3rd, 2021, the stock market saw a huge disruption from retail investors, heavily spurred on by Reddit forum “r/wallstreetbets”. 
+> Using historcial stock volume, price changes, and reddit coments to predict future stock price movement based on reddit comments. Traditionally the stock market is heavily influenced by large investment banks and hedge funds buying and selling large volumes of stocks. However from Jan 13th, 2021 through Feb 3rd, 2021, the stock market saw a huge disruption from retail investors, heavily spurred on by Reddit forum “r/wallstreetbets”. 
 
 
  * Data Constraints: 
