@@ -5,10 +5,18 @@ Using historcial stock volume, price changes, and reddit coments to predict futu
 ![1_7bA1kd2YezNvkpA4EZQHtQ](https://user-images.githubusercontent.com/78064648/123714755-cb3e8e80-d82b-11eb-914e-7e455b0818ce.jpg)
 * Data Constraints: 
     * Bound time to the last 5 years 
+    *  ![Screen Shot 2021-06-29 at 8 13 18 PM](https://user-images.githubusercontent.com/78064648/123896565-a83cd900-d916-11eb-8d4c-85cdd1202b21.png)
     * Focused on close prices 
     * Daily time frame, including the hours between market open & market close.
-    * Top stocks based on volume (GME,AMC,AAPL)
- 
+    * Top stocks based on volume 
+      ** GME
+      **![Screen Shot 2021-06-29 at 8 18 21 PM](https://user-images.githubusercontent.com/78064648/123896871-403ac280-d917-11eb-967f-04b4d23eff9d.png)
+      **AMC
+      **![Screen Shot 2021-06-29 at 8 17 38 PM](https://user-images.githubusercontent.com/78064648/123896994-83953100-d917-11eb-887c-f900bb304e48.png)
+      **AAPL
+      **![Screen Shot 2021-06-29 at 8 17 07 PM](https://user-images.githubusercontent.com/78064648/123897017-93ad1080-d917-11eb-9d76-020ae290063f.png)
+
+
  ### Communication
     - Slack workspace: group project - data
     - Virtual class: tuesday and thursday (7pm-9pm)
