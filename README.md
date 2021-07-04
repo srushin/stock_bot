@@ -50,10 +50,10 @@
     5.Explanation of changes in model choice (if changes occurred between the Segment 2  and Segment 3 deliverables)i would have loved to use   text2emotion instead of vader/textblob but i didn't want to spend too much time learning it so someone suggested using VADER which we had never heard of it seemed as if it was used more for scraping data from twitter versus an excel database but i was hoping i could get it to work somewhat the same by just using the text from title column as "twitter comments". I liked text2emotions because i thought it did a more indepth look by also focusing on emojis/emoticons.
 
     6.Description of how they have trained the model thus far, and any additional training that will take place 
-so far the sentiment was trained with the title column to get the neutral, positive, negative types next the stock needs to be trained with the emotions using the volume and dates to ultimately recieve messages when an influx of emotions and a stock our commented on r/wallstreetbets
+    so far the sentiment was trained with the title column to get the neutral, positive, negative types next the stock needs to be trained with the emotions using the volume and dates to ultimately recieve messages when an influx of emotions and a stock our commented on r/wallstreetbets
 
     7.Description of current accuracy score 
-the accuracy score was really low i think without using words like Happy, Fear, Sad versus neutral its hard for the machine learning to really decide how to categorize the data calculated as neutral it seems looking at the data that neutral usually leans towards positive sentiment type.
+    the accuracy score was really low i think without using words like Happy, Fear, Sad versus neutral its hard for the machine learning to really decide how to categorize the data calculated as neutral it seems looking at the data that neutral usually leans towards positive sentiment type.
 
     8.Additionally, the model obviously addresses the question or problem the team is solving ?
     I'm curious if we could use a Flask.app, python to send SMS message straight to phone just to see if it would work or AWS on a larger scale but right now the model only addresses the sentiment part of the text it has been trained to predict comments as either positive, neutral, or negative. we will then need to use deep learning and use the volume from the stock and use the dates to determine (cross-examine) how the sentiments played in the decision-making ability for the consumer buying the selected stock using the tickers created.
