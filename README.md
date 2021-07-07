@@ -55,7 +55,7 @@ Using historcial stock volume, price changes, and reddit coments to predict futu
     -Find the appropriate words that express emotions or feelings.
     -Check the emotion category of each sentimental type (finding if they are neutral, negative, positive).
     -Store the count of emotions relevant to the words found.
-    - ![Screen Shot 2021-07-06 at 5 20 32 PM](https://user-images.githubusercontent.com/78064648/124681975-96ab8200-de7e-11eb-97da-df87bda822cf.png)
+   ![Screen Shot 2021-07-06 at 5 20 32 PM](https://user-images.githubusercontent.com/78064648/124682058-c064a900-de7e-11eb-9366-c9c6df9ac3d4.png)
 
     1C. Sentiment Analysis
     After sentiment investigation, there is the time of getting the significant output for the textual message we input earlier.
