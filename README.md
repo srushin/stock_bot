@@ -59,7 +59,8 @@
     I'm curious if we could use a Flask.app, python to send SMS message straight to phone just to see if it would work or AWS on a larger scale but right now the model only addresses the sentiment part of the text it has been trained to predict comments as either positive, neutral, or negative. we will then need to use deep learning and use the volume from the stock and use the dates to determine (cross-examine) how the sentiments played in the decision-making ability for the consumer buying the selected stock using the tickers created.
 
 ### Tableau
-[Link](https://public.tableau.com/app/profile/lisette.worster/viz/SentimentAnalysis_16252430553980/Storyboard)
+[Storyboard Link](https://public.tableau.com/app/profile/lisette.worster/viz/SentimentAnalysis_16252430553980/Storyboard)
+[Dashboard Link](https://public.tableau.com/app/profile/lisette.worster/viz/SentimentAnalysis_16252430553980/Dashboard)
 
 #### Questions
     Look at # of shorts for a given year?
