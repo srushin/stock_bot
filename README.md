@@ -63,6 +63,9 @@
 
 [Dashboard Link](https://public.tableau.com/app/profile/lisette.worster/viz/SentimentAnalysis_16252430553980/Dashboard)
 
+### Google Slides Presentation
+[Presentation](https://docs.google.com/presentation/d/1XOsLk_ywS7JSwWmFjPFMf7BQVyQRQjJGoViyDx5BsoE/edit?usp=sharing)
+
 #### Questions
     Look at # of shorts for a given year?
     What key indicators affect stock price the most? (Volume, Moving Average, RSI**, VWAP**)
