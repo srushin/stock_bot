@@ -19,7 +19,8 @@ Using historcial stock volume, price changes, and reddit coments to predict futu
 
  ### Communication
     - Slack workspace: group project - data
-   ![Dashboard Working GIF](https://giphy.com/gifs/W8SF9n6CiW50VgQlbz)
+    - Work Summarized through a local web based dashboard developed through jupyter notebook, Dash and Plotly. 
+   ![Dashboard Working GIF](https://github.com/srushin/stock_bot/blob/main/Animated%20GIF-downsized.gif)
 
     - Virtual class: tuesday and thursday (7pm-9pm)
     - Zoom meetings
