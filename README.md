@@ -19,7 +19,7 @@ Using historcial stock volume, price changes, and reddit coments to predict futu
 
  ### Communication
     - Slack workspace: group project - data
-   ![Screen Shot 2021-07-06 at 5 14 27 PM](https://user-images.githubusercontent.com/78064648/124681650-d9208f00-de7d-11eb-8a4a-1e86061fc72b.png)
+   ![Dashboard Working GIF](https://giphy.com/gifs/W8SF9n6CiW50VgQlbz)
 
     - Virtual class: tuesday and thursday (7pm-9pm)
     - Zoom meetings
